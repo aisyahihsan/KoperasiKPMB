@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\bin\Debug\KoperasiKPMB.exe.config
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\bin\Debug\KoperasiKPMB.exe
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\bin\Debug\KoperasiKPMB.pdb
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\obj\Debug\KoperasiKPMB.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\obj\Debug\KoperasiKPMB.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\obj\Debug\KoperasiKPMB.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\obj\Debug\KoperasiKPMB.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\obj\Debug\KoperasiKPMB.exe
+c:\users\user\documents\visual studio 2015\Projects\KoperasiKPMB\KoperasiKPMB\obj\Debug\KoperasiKPMB.pdb
